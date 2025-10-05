@@ -113,4 +113,4 @@ print(multiprocessing.cpu_count())
 ### Key Takeaway
  Optimize only when necessary—focus on identifying bottlenecks, leverage existing libraries, and choose the right tool (multiprocessing, Cython, or GPU acceleration) based on your task.
 
-[Previous Page](README.md) [Next Page](High-Performance-Computing.md)
+[Previous Page](README.md) - [Next Page](High-Performance-Computing.md)
