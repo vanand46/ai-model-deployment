@@ -103,8 +103,6 @@ print(multiprocessing.cpu_count())
 * Nvidia’s **Compute Unified Device Architecture (CUDA)** allows GPU acceleration.
 * In Python, use **PyCUDA** to offload heavy computations to CUDA-enabled GPUs.
 
----
-
 ## Additional Resources
 
 * [SciPy Lectures: Code Optimization](https://scipy-lectures.org/advanced/advanced_python/index.html)
@@ -112,7 +110,7 @@ print(multiprocessing.cpu_count())
 * [IPyParallel Demos](https://ipyparallel.readthedocs.io/en/latest/demos.html)
 * [Cython Tutorial](https://cython.readthedocs.io/en/latest/src/tutorial/)
 
----
-
 ### Key Takeaway
  Optimize only when necessary—focus on identifying bottlenecks, leverage existing libraries, and choose the right tool (multiprocessing, Cython, or GPU acceleration) based on your task.
+
+[Previous Page](README.md) [Next Page](High-Performance-Computing.md)
