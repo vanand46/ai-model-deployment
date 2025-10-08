@@ -25,6 +25,9 @@ During these phases:
 Because design thinking is **user-centric**, feedback loops are critical.  
 As users interact with your models, they will request adjustments or new features, and you’ll need to **respond quickly**.
 
+![Alt text](media/images/container-intro.png "Contaier Diag")
+
+
 ## Why Containers Matter
 
 Docker containers make this rapid iteration possible by allowing you to:
@@ -39,3 +42,5 @@ Docker containers make this rapid iteration possible by allowing you to:
 - Learn how to build, run, and manage Docker containers.  
 - Practice exposing simple Flask- or FastAPI-based model endpoints within containers.  
 - Understand how containers integrate into broader systems (e.g., Kubernetes, CI/CD pipelines).
+
+[Previous Page](Spark-Submit.md) -  [Next Page](On-Containers.md)
