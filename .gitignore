@@ -1,0 +1,106 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.env
+.venv
+env/
+venv/
+ENV/
+.ipynb_checkpoints/
+
+# -----------------------------
+# Jupyter
+# -----------------------------
+.ipynb_checkpoints/
+.jupyter/
+.profile_default/
+*.nbconvert.ipynb
+*.nbconvert/
+*.nb.html
+.notebook_cache/
+
+# -----------------------------
+# Spark
+# -----------------------------
+spark-warehouse/
+metastore_db/
+derby.log
+logs/
+tmp/
+spark-events/
+eventlog/
+*.crc
+*.snappy.parquet
+*_SUCCESS
+
+# -----------------------------
+# Data files (local, large, or generated)
+# -----------------------------
+data/
+datasets/
+input/
+output/
+*.csv
+*.tsv
+*.json
+*.parquet
+*.avro
+*.orc
+*.zip
+*.gz
+*.bz2
+
+# -----------------------------
+# Docker
+# -----------------------------
+# Docker build cache and volumes
+.docker/
+docker-compose.override.yml
+docker-compose.local.yml
+Dockerfile.local
+Dockerfile.dev
+*.tar
+*.bak
+
+# Container data and mounts
+volumes/
+mnt/
+tmp/
+var/
+container_data/
+*.pid
+
+# Ignore environment overrides
+.env
+.env.*
+
+# -----------------------------
+# IDE / OS specific
+# -----------------------------
+.vscode/
+.idea/
+.history/
+.DS_Store
+Thumbs.db
+*.lnk
+*~
+.cache/
