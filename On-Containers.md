@@ -57,4 +57,6 @@ Docker provides a **reliable, portable, and isolated environment** for applicati
 
 ## Docker Architecture Diagram
 
-![Alt text](media/images/docker.png "Dcoker Diag")
+![Alt text](media/images/docker.png "Docker Diag")
+
+[Previous Page](Containers-Intro.md) -  [Next Page](Docker-Installation-Setup.md)
