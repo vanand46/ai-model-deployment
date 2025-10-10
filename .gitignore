@@ -22,8 +22,10 @@ __pycache__/
 # -----------------------------
 .env
 .venv
+.vennv
 env/
 venv/
+vennv/
 ENV/
 .ipynb_checkpoints/
 
