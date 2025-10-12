@@ -98,4 +98,4 @@ rfModel = model.stages[2]
 print(rfModel)  # Summary of the trained model
 ```
 
-[Previous Page](Spark-Pipelines.md) -  [Next Page](Spark-Pipelines.md)
+[Previous Page](Spark-Pipelines.md) -  [Next Page](Spark-Unsupervised-Learning.md)
