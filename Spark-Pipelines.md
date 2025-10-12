@@ -85,5 +85,5 @@ While Spark may require more setup effort than local libraries, its **distribute
 
 By leveraging **Pipelines**, **Transformers**, and **Estimators**, data scientists can build **modular, maintainable, and scalable ML workflows** on top of Apache Spark.
 
-[Previous Page](Spark-Machine-Learning.md) -  [Next Page](Spark-Pipelines.md)
+[Previous Page](Spark-Machine-Learning.md) -  [Next Page](Spark-Supervised-Learning.md)
 
